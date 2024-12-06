@@ -1,0 +1,16 @@
+C:\Users\raphael\Desktop\Backpropagation Neural Networks\Backpropagation\bin\Debug\net8.0-windows\Backpropagation.exe
+C:\Users\raphael\Desktop\Backpropagation Neural Networks\Backpropagation\bin\Debug\net8.0-windows\Backpropagation.deps.json
+C:\Users\raphael\Desktop\Backpropagation Neural Networks\Backpropagation\bin\Debug\net8.0-windows\Backpropagation.runtimeconfig.json
+C:\Users\raphael\Desktop\Backpropagation Neural Networks\Backpropagation\bin\Debug\net8.0-windows\Backpropagation.dll
+C:\Users\raphael\Desktop\Backpropagation Neural Networks\Backpropagation\bin\Debug\net8.0-windows\Backpropagation.pdb
+C:\Users\raphael\Desktop\Backpropagation Neural Networks\Backpropagation\obj\Debug\net8.0-windows\Backpropagation.Form1.resources
+C:\Users\raphael\Desktop\Backpropagation Neural Networks\Backpropagation\obj\Debug\net8.0-windows\Backpropagation.csproj.GenerateResource.cache
+C:\Users\raphael\Desktop\Backpropagation Neural Networks\Backpropagation\obj\Debug\net8.0-windows\Backpropagation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael\Desktop\Backpropagation Neural Networks\Backpropagation\obj\Debug\net8.0-windows\Backpropagation.AssemblyInfoInputs.cache
+C:\Users\raphael\Desktop\Backpropagation Neural Networks\Backpropagation\obj\Debug\net8.0-windows\Backpropagation.AssemblyInfo.cs
+C:\Users\raphael\Desktop\Backpropagation Neural Networks\Backpropagation\obj\Debug\net8.0-windows\Backpropagation.csproj.CoreCompileInputs.cache
+C:\Users\raphael\Desktop\Backpropagation Neural Networks\Backpropagation\obj\Debug\net8.0-windows\Backpropagation.dll
+C:\Users\raphael\Desktop\Backpropagation Neural Networks\Backpropagation\obj\Debug\net8.0-windows\refint\Backpropagation.dll
+C:\Users\raphael\Desktop\Backpropagation Neural Networks\Backpropagation\obj\Debug\net8.0-windows\Backpropagation.pdb
+C:\Users\raphael\Desktop\Backpropagation Neural Networks\Backpropagation\obj\Debug\net8.0-windows\Backpropagation.genruntimeconfig.cache
+C:\Users\raphael\Desktop\Backpropagation Neural Networks\Backpropagation\obj\Debug\net8.0-windows\ref\Backpropagation.dll
